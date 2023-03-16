@@ -1,0 +1,138 @@
+*{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(42,26,3);
+    color: bisque;
+}
+
+.img1Temp{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(104,85,45);
+}
+
+.diviInt{
+    border: 3px solid rgb(104,85,45);
+    background-color: rgb(104,85,45);
+    border-radius: 15px 15px 0px 0px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.diviEp{
+    border: 3px solid rgb(104,85,45);
+    background-color: rgb(104,85,45);
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.diviFoto{
+    border: 3px solid rgb(104,85,45);
+    background-color: rgb(104,85,45);
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+.diviFoto div{
+    background-color: rgb(104,85,45);
+}
+
+.diviFoto p{
+    background-color: rgb(59,59,33);
+}
+
+.diviFoto img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.td1{
+    border-radius: 15px 0px 0px 0px;
+}
+
+.td4{
+    border-radius: 0px 15px 0px 0px;
+}
+
+.td5{
+    border-radius: 0px 0px 0px 15px;
+}
+
+.td8{
+    border-radius: 0px 0px 15px 0px;
+}
+
+.diviMor{
+    border: 3px solid rgb(104,85,45);
+    background-color: rgb(104,85,45);
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+.diviDif{
+    border: 3px solid rgb(104,85,45);
+    background-color: rgb(104,85,45);
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+.diviAudi{
+    border: 3px solid rgb(104,85,45);
+    background-color: rgb(104,85,45);
+    border-radius: 0px 0px 15px 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+hr{
+    width: 1200px;
+}
+
+h1,h2,h3{
+    text-align: center;
+    background-color: rgb(104,85,45);
+}
+
+ul{
+    text-align: center;
+    list-style: none;
+    background-color: rgb(104,85,45);
+}
+
+p{
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: rgb(104,85,45);
+}
+
+table{
+    border: 3px solid rgb(182, 149, 78);
+    margin: 0 auto;
+    background-color: rgb(182, 149, 78);
+    border-radius: 15px;
+}
+
+table td{
+    border: 1px solid rgb(182, 149, 78);
+    background-color: rgb(59,59,33);
+}
+
+table tr{
+    border: 1px solid rgb(182, 149, 78);
+    background-color: rgb(182, 149, 78);
+}
+
+ol{
+    list-style: none;
+    text-align: center;
+    background-color: rgb(104,85,45);
+}
+
+li{
+    background-color: rgb(104,85,45);
+}
