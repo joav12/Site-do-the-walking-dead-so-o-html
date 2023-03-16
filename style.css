@@ -16,7 +16,6 @@
     border-radius: 15px 15px 0px 0px;
     margin-left: 20px;
     margin-right: 20px;
-    margin-bottom: 20px;
 }
 
 .diviEp{
@@ -24,7 +23,6 @@
     background-color: rgb(104,85,45);
     margin-left: 20px;
     margin-right: 20px;
-    margin-bottom: 20px;
 }
 
 .diviFoto{
@@ -32,7 +30,6 @@
     background-color: rgb(104,85,45);
     margin-left: 20px;
     margin-right: 20px;
-    margin-bottom: 10px;
 }
 
 .diviFoto div{
@@ -70,7 +67,6 @@
     background-color: rgb(104,85,45);
     margin-left: 20px;
     margin-right: 20px;
-    margin-bottom: 10px;
 }
 
 .diviDif{
@@ -78,15 +74,13 @@
     background-color: rgb(104,85,45);
     margin-left: 20px;
     margin-right: 20px;
-    margin-bottom: 10px;
 }
 
 .diviAudi{
     border: 3px solid rgb(104,85,45);
     background-color: rgb(104,85,45);
     border-radius: 0px 0px 15px 15px;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 20px
 }
 
 hr{
